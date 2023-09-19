@@ -1,0 +1,4 @@
+ID,Image,Mask
+1,./Data/Org/ZQ47 Image mediastinum.nrrd,./Data/Org/ZQ47 Segmentation.seg.nrrd
+2,./Data/Org/ZQ74 Image mediastinum.nrrd,./Data/Org/ZQ74 Segmentation.seg.nrrd
+3,./Data/Org/ZQ239 Image mediastinum.nrrd,./Data/Org/ZQ239 Segmentation.seg.nrrd
