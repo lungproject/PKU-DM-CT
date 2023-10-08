@@ -36,7 +36,7 @@ if __name__ == '__main__':
     methyfeature = np.vstack((methyfeature, b))
     methyrs = np.dot(methycoef, methyfeature)
 
-    finalcoef = [0.869443005,1.323007936,-1.804204295]
+    finalcoef = [0.903569740398742, 1.279819772110745, -1.812940181289075]
 
     allfeature = np.vstack((DRS,methyrs))
     num = np.shape(allfeature)[1]
